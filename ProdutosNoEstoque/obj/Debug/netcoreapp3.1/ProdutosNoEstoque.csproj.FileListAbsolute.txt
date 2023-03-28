@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\bin\Debug\netcoreapp3.1\ProdutosNoEstoque.exe
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\bin\Debug\netcoreapp3.1\ProdutosNoEstoque.deps.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\bin\Debug\netcoreapp3.1\ProdutosNoEstoque.runtimeconfig.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\bin\Debug\netcoreapp3.1\ProdutosNoEstoque.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\bin\Debug\netcoreapp3.1\ProdutosNoEstoque.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\bin\Debug\netcoreapp3.1\ProdutosNoEstoque.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\obj\Debug\netcoreapp3.1\ProdutosNoEstoque.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\obj\Debug\netcoreapp3.1\ProdutosNoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\obj\Debug\netcoreapp3.1\ProdutosNoEstoque.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\obj\Debug\netcoreapp3.1\ProdutosNoEstoque.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\obj\Debug\netcoreapp3.1\ProdutosNoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\obj\Debug\netcoreapp3.1\ProdutosNoEstoque.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\obj\Debug\netcoreapp3.1\ProdutosNoEstoque.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ProdutosNoEstoque\ProdutosNoEstoque\obj\Debug\netcoreapp3.1\ProdutosNoEstoque.genruntimeconfig.cache
